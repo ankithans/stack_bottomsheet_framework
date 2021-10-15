@@ -32,10 +32,10 @@ class BottomSheetData {
       );
 
   Map<String, dynamic> toJson() => {
-    "title": title,
-    "description": description,
-    "button": button,
-    "after_title": afterTitle,
-    "after_description": afterDescription,
-  };
+        "title": title,
+        "description": description,
+        "button": button,
+        "after_title": afterTitle,
+        "after_description": afterDescription,
+      };
 }

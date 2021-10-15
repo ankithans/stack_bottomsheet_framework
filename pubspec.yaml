@@ -1,7 +1,7 @@
 name: stack_bottomsheet_framework
 description: An abstraction layer for stack framework supporting expand & collapse state of view.
-version: 0.0.1
-homepage:
+version: 0.0.7
+homepage: https://github.com/ankithans/stack_bottomsheet_framework
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
@@ -10,13 +10,13 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  google_fonts: ^2.1.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^1.0.0
-  google_fonts: ^2.1.0
-  sleek_circular_slider: ^2.0.1
+
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
